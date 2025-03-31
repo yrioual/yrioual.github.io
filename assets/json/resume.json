@@ -48,7 +48,7 @@
       "endDate": "2019-10-01",
       "score": "",
       "courses": ""
-    }, 
+    },
     {
       "institution": "University of Bretagne Sud, Lorient, France",
       "location": "Lorient, France",
@@ -64,21 +64,11 @@
   "skills": [
     {
       "name": "Programming skills",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Bash",
-        "Matlab"
-      ]
+      "keywords": ["Python", "C/C++", "Bash", "Matlab"]
     },
     {
       "name": "Software",
-      "keywords": [
-        "Docker",
-        "ssh",
-        "git",
-        "Linux"
-      ]
+      "keywords": ["Docker", "ssh", "git", "Linux"]
     }
   ],
   "languages": [
