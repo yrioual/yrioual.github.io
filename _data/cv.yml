@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yohann Rioual
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
@@ -21,11 +19,11 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master's degree
+      institution: University of Bretagne Sud, Lorient, France
+      year: 2016
       description:
-        - Description 1.
+        - Embedded systems
         - Description 2.
 
 - title: Experience
